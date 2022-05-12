@@ -1,0 +1,11 @@
+# NodeJS
+node_modules/
+yarn-error.log
+
+# Mac OS
+.DS_Store
+
+# jest
+coverage/
+tmp/
+test-report.xml
