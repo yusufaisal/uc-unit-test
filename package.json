@@ -1,0 +1,21 @@
+{
+  "name": "unitTest",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "src/utils.js",
+  "devDependencies": {
+    "@babel/core": "7.11.6",
+    "@babel/preset-flow": "7.10.4",
+    "babel-plugin-dynamic-import-node": "^2.3.3",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.176.2",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.17.10"
+  }
+}
